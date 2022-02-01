@@ -27,4 +27,4 @@
 ## Education
 Higher legal education, specialty: lawyer, forensic expert
 
-## Knowledge of English: A1 
+## Knowledge of English: A2+
