@@ -1,6 +1,6 @@
 # Pavel Astravets
 
-![Фото](/.\IMG_E1767.jpg/ "Аватар")
+![Это я](./IMG_E1767.jpg)
 
 
 * Phone: +375336777298
