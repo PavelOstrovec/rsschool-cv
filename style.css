@@ -1,10 +1,9 @@
-<style>
 .photo {
     animation: color-change 3s infinite;
 }
+
 @keyframes color chenge {
     0% {color: red;}
     50% {color; black;} 
     100% {color; red;}   
 }
-</style>
